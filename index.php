@@ -11,6 +11,8 @@
 
 define('DIR_ROOT',__DIR__);
 require_once(DIR_ROOT.'src/Bootstrap.php');
+$deploy = new Response();
+$deploy->run();
 
 
 

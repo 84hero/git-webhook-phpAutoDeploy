@@ -9,7 +9,12 @@
  *
  */
 
-define('DEPLOY_TOKEN','570aebede8598eaf96c6dd12ac7768cf');
+$_C = array(
+    'deploy_token'=>'570aebede8598eaf96c6dd12ac7768cf',
+);
+
+
+
 
 
 
